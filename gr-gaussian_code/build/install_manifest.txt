@@ -1,0 +1,9 @@
+/usr/local/lib/cmake/gaussian_code/gaussian_codeConfig.cmake
+/usr/local/include/gaussian_code/api.h
+/usr/local/lib/python2.7/dist-packages/gaussian_code/__init__.py
+/usr/local/lib/python2.7/dist-packages/gaussian_code/gaussian_code_if.py
+/usr/local/lib/python2.7/dist-packages/gaussian_code/__init__.pyc
+/usr/local/lib/python2.7/dist-packages/gaussian_code/gaussian_code_if.pyc
+/usr/local/lib/python2.7/dist-packages/gaussian_code/__init__.pyo
+/usr/local/lib/python2.7/dist-packages/gaussian_code/gaussian_code_if.pyo
+/usr/local/share/gnuradio/grc/blocks/gaussian_code_gaussian_code_if.xml

@@ -1,7 +1,7 @@
 # EE-708-GNU-Radio-Project
 # Step I
 
-You have to pick a value of N, say 8.
+You have to pick a value of M, say 8.
 
 generate a random codebook of M vectors of length N.
 
@@ -17,7 +17,7 @@ Plot the end to end bit error rate, as a function of P.
 
 # Step II
 
-Choose N=8 and M=20, repeat the above steps.
+Choose M=8 and N=20, repeat the above steps.
 
 # Step III
 

@@ -1,9 +1,0 @@
-/usr/local/lib/cmake/assgn_708/assgn_708Config.cmake
-/usr/local/include/self_cancel/api.h
-/usr/local/lib/python2.7/dist-packages/assgn_708/__init__.py
-/usr/local/lib/python2.7/dist-packages/assgn_708/assgn_708.py
-/usr/local/lib/python2.7/dist-packages/assgn_708/__init__.pyc
-/usr/local/lib/python2.7/dist-packages/assgn_708/assgn_708.pyc
-/usr/local/lib/python2.7/dist-packages/assgn_708/__init__.pyo
-/usr/local/lib/python2.7/dist-packages/assgn_708/assgn_708.pyo
-/usr/local/share/gnuradio/grc/blocks/assgn_708_assgn_708.xml
