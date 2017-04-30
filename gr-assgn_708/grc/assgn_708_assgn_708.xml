@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<block>
+  <name>assgn_708</name>
+  <key>assgn_708</key>
+  <category>assgn_708</category>
+  <import>import assgn_708</import>
+  <make>assgn_708.assgn_708($samp_rate)</make>
+  <!-- Make one 'param' node for every Parameter you want settable from the GUI.
+       Sub-nodes:
+       * name
+       * key (makes the value accessible as $keyname, e.g. in the make node)
+       * type -->
+  <param>
+    <name>Power</name>
+    <key>Power</key>
+    <type>float</type>
+  </param>     
+  <param>
+    <name>N</name>
+    <key>N</key>
+    <type>int</type>
+  </param>     
+  <param>
+    <name>seed</name>
+    <key>seed</key>
+    <type>int</type>
+  </param>     
+
+  <!-- Make one 'sink' node per input. Sub-nodes:
+       * name (an identifier for the GUI)
+       * type
+       * vlen
+       * optional (set to 1 for optional inputs) -->
+  <sink>
+    <name>input_id</name>
+    <type>int</type>
+  </sink>
+
+  <!-- Make one 'source' node per output. Sub-nodes:
+       * name (an identifier for the GUI)
+       * type
+       * vlen
+       * optional (set to 1 for optional inputs) -->
+  <source>
+    <name>BER</name>
+    <type>float</type>
+  </source>
+</block>
